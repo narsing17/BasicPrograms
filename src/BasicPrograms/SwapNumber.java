@@ -2,7 +2,8 @@ package BasicPrograms;
 
 import java.util.Scanner;
 
-public class SwapOfNumber {
+public class SwapNumber {
+
     public static void main(String[] args) {
         int x, y, t;
         Scanner sc = new Scanner(System.in);
@@ -16,4 +17,5 @@ public class SwapOfNumber {
         System.out.println();
     }
 }
+
 
